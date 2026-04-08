@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Studying **[Your Degree / Course]**
-- 🤖 Passionate about **[Machine Learning / Web Dev / Data Science / etc.]**
-- 🧠 Interested in **[Your Interests / Domains]**
-- 💡 Working on **[Current Project or Goal]**
-- 🌍 Currently based in **[City, Country]**
+- 🎓 Studying **MSc Artificial Intelligence**
+- 🤖 Passionate about **Machine Learning, Deep Learning & Data Science**
+- 🧠 Interested in **AI-driven real-time systems**
+- 💡 Working on **AI-based real-time Texture Embeddings for Multi-Disease Medical Image Similarity Search**
+- 🌍 Currently based in **London, UK**
 
 ---
 
@@ -31,9 +31,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🧠 **[Project 1 Name]** | [Short project description] | [Python, ML, etc.] |
-| 🔍 **[Project 2 Name]** | [Short project description] | [TensorFlow, CNN, etc.] |
-| 📊 **[Project 3 Name]** | [Short project description] | [Power BI, Pandas, etc.] |
+| 🧠 **Fraud Detection System** | Detects real-time fraud in digital payments using ML/DL | PySpark , Python , ML |
+| 🔍 **MASERA** | An agentic AI ecosystem that transforms complex symptom data into transparent,actionable risk assessments for better-informed clinical decisions. | Python , Scikit-learn , Pandas , TF-IDF |
+| 📊 **AI-based real-time Texture Embeddings for Multi-Disease Medical Image Similarity Search** | multi-agent architecture to process user-provided symptom descriptions and generate transparent, interpretable health evaluations | PySpark , Python, GLCM , DELG & DOLG , MOCO|
 
 ---
 
@@ -49,14 +49,14 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="[Your LinkedIn URL]">
+  <a href="https://www.linkedin.com/in/murali-manohar-31447a249/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:[your-email@example.com]">
+  <a href="mailto:muralimanohar9.uk@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="[Your Portfolio or Website URL]">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
