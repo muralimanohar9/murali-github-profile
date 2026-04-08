@@ -55,7 +55,7 @@
   <a href="mailto:muralimanohar9.uk@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="[Your Portfolio or Website URL]">
+  <a href="https://github.com/muralimanohar9">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
